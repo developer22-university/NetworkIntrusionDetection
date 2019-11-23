@@ -12,3 +12,6 @@ Project plan:
  
  How to add files to git:
   <img src="Pictures/AddingToRepo.png">
+
+Next steps:
+<img src="NextTasks.png">
