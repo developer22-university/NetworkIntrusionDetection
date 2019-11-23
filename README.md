@@ -2,6 +2,8 @@
 
 Dataset and paper: https://drive.google.com/drive/folders/1wyQup30XLaSLV4NdMXhF2qD8lnGUqe2G
 
+More datasets (CICIDS 2017 and NSL KDD) https://drive.google.com/drive/folders/1YhV3HPRtpJqqWB7u09Uet42tWZms14BE?usp=sharing
+
 Link to edit the project report: https://www.overleaf.com/5983747223vcgvrjkrhkqj
 
 Project plan:
