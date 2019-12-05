@@ -14,7 +14,10 @@ Project plan:
   <img src="Pictures/AddingToRepo.png">
 
 Next steps:
-<img src="NextTasks.png">
+<img src="Pictures/NextTasks.png">
 
 Next Next steps:
-<img src="NextNextTasks.png">
+<img src="Pictures/NextNextTasks.png">
+
+Poster Design:
+<img src="Pictures/PosterDesign.png">
