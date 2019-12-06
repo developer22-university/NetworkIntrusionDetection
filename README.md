@@ -6,6 +6,9 @@ More datasets (CICIDS 2017 and NSL KDD) https://drive.google.com/drive/folders/1
 
 Link to edit the project report: https://www.overleaf.com/5983747223vcgvrjkrhkqj
 
+our poster is here:
+https://drive.google.com/drive/u/1/folders/1YhV3HPRtpJqqWB7u09Uet42tWZms14BE
+
 Project plan:
  <img src="Pictures/Cmpt726ProjectPlanUpdated.jpg">
  
