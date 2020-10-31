@@ -1,4 +1,4 @@
-# CMPT726 IntrusionDetection
+# Network Intrusion Detection Using Various Deep Learning Approaches
 Project By: Kamila Bekshentayeva, Matthew Canute, Young-min Kim, Donggu Lee, Adriena Wong
 
 Network Intrusion Detection systems (NIDS), which are primary defence elements in the security of network technology, monitor network traffic in order to detect malicious activities. These systems rely on the identification of known attack signatures; however, the frequency of complex, diverse, and challenging-to-detect attacks increases the difficulty to identify current threats. Finding deviations from normal behaviour in the observed network traffic is known as anomaly-based intrusion detection.
